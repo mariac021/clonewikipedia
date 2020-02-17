@@ -1,0 +1,388 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
+    font-family: Helvetica,Arial,sans-serif;
+    overflow-y:visible;
+    overflow-x: visible;
+}
+
+/*Estilos aplicados al Header*/
+
+header {
+    width: 100%;
+    height: 60px;    
+}
+
+/*Estilos aplicados al main*/
+
+main {
+    margin-top: 50px;
+    text-align: center;
+}
+
+main .main-buttons .button-es {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-es .art1 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+ main .main-buttons .button-es .español:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-es .art1:hover {
+    text-decoration-line: underline white;  
+}
+
+main .main-buttons .button-en {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-en .art2 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-en .ingles:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-en .art2:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-ja {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-ja .art3 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-ja .japones:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-ja .art3:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-de {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-de .art4 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-de .aleman:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-de .art4:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-rus {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-rus .art5 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-rus .ruso:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-rus .art5:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-fr {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-fr .art6 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-fr .frances:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-fr .art6:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-ita {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-ita .art7 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-ita .italiano:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-ita .art7:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-ch {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-ch .art8 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-ch .chino:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-ch .art8:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-por {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-por .art9 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-por .portugues:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-por .art9:hover {
+    text-decoration-line: underline white;
+}
+
+main .main-buttons .button-pol {
+    border: hidden;
+    font-size: 16px;
+    color: #36c;
+    background-color: white;
+    display: block;
+    font-weight: bolder;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;;
+}
+
+main .main-buttons .button-pol .art10 {
+    color: #54595d;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+main .main-buttons .button-pol .polaco:hover {
+    text-decoration-line: underline;
+}
+
+main .main-buttons .button-pol .art10:hover {
+    text-decoration-line: underline white;
+}
+
+#serchinput {
+    padding: 8px 0 0 8px;
+    height: 28px;
+    width: 310px;
+}
+
+.serch-button {
+    border-radius: 3px;
+    padding: 8px 16px;
+    background-color:  #36c;
+    border-color: #36c;
+
+}
+/*Estilos del Footer*/
+
+.f1 {
+    width: 98%;
+    border-color: #d9dcdf;
+    color: #d9dcdf;
+    margin-top: 10%;
+    border-width: 0.6px;
+}
+
+footer {
+    margin-block-end: 10px;
+}
+
+
+footer .text1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: 13px;
+    text-decoration: none;
+    margin: 0 400;
+    color: #54595d;
+}
+
+footer strong .text2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: 13px;
+    text-decoration: none;
+    margin: 0 400;
+    color: #54595d;
+}
+
+footer .text3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: 13px;
+    text-decoration: none;
+    margin: 0 400;
+    color: #54595d;
+}
+
+ footer .coment1 {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 14px;
+     color: #36c;
+ }
+
+ footer .coment2 {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 12px;
+     color: #54595d;
+ }
+
+ p .licencias {
+     display: block; 
+ }
+
+.lice1 {
+    color: #54595d;
+    font-size: 12px;
+    position: center;
+    text-decoration: none;
+    margin-block-end: 10px;
+ }
+
+ .lice2 {
+    color: #36c;
+    font-size: 12px;
+    position: center;
+    text-decoration: none;
+    margin-block-end: 10px;
+ }
+
+ .lice2:hover {
+     text-decoration-line: underline;
+     color: #36c;
+ }
+
+.lice3 {
+
+    color: #36c;
+    font-size: 12px;
+    position: center;
+    text-decoration: none;
+    width:2px;
+}
+
+.lice3:hover {
+    text-decoration-line: underline;
+    color: #36c;
+}
+
+.lice4 {
+
+    color: #36c;
+    font-size: 12px;
+    position: center;
+    text-decoration: none;
+    width:2px;
+}
+
+.lice4:hover {
+    text-decoration-line: underline;
+    color: #36c;
+}
+
+
+
+
+
+
+
+
